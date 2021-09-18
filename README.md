@@ -1,7 +1,7 @@
 - 👋 Hi I'm @codedrawgirl
 - 👀 I'm interested in blockchain technology
 - 🌱 I’m currently learning javascript + animation
-- 💞️ I’m looking to collaborate on nft/defi project
+- 💞️ I’m looking to collaborate on nft/defi projects
 - 📫 How to reach me ...
 
 <!---
